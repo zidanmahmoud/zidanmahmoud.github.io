@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFD | Mahmoud Zidan</title>
+    <link>https://zidanmahmoud.github.io/tags/cfd/</link>
+      <atom:link href="https://zidanmahmoud.github.io/tags/cfd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CFD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>CFD</title>
+      <link>https://zidanmahmoud.github.io/tags/cfd/</link>
+    </image>
+    
+    <item>
+      <title>Structural Wind Analysis of The High-Rise Building 1180 Peachtree Using The Eurocode Standard and CFD Simulations</title>
+      <link>https://zidanmahmoud.github.io/project/wind/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/wind/</guid>
+      <description>&lt;p&gt;Wind Analysis of the high-rise building 1180 Peachtree, Atlanta, Georgia, US. Historical wind velocities for the previous 30 years were collected and an analytical aerostatic and aerodynamic analysis using the Eurocode was performed on the building. Then, a CFD simulation was done using KRATOS open-source project developed by the chair and CIMNE, a reseach center in Barcelona, Spain.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
