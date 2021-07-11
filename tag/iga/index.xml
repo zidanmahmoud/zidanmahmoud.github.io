@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IGA | Mahmoud Zidan</title>
+    <link>https://zidanmahmoud.github.io/tag/iga/</link>
+      <atom:link href="https://zidanmahmoud.github.io/tag/iga/index.xml" rel="self" type="application/rss+xml" />
+    <description>IGA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mahmoud Zidan</copyright><lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zidanmahmoud.github.io/media/icon_hucce0edde1ab360b1c50e30e773372010_17872_512x512_fill_lanczos_center_2.png</url>
+      <title>IGA</title>
+      <link>https://zidanmahmoud.github.io/tag/iga/</link>
+    </image>
+    
+    <item>
+      <title>Isogeometric analyis of trimmed membrane structures</title>
+      <link>https://zidanmahmoud.github.io/project/trimmed/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/trimmed/</guid>
+      <description>&lt;p&gt;The task was to extend a given code for the IGA of untrimmed membranes to the application of trimmed IGA. IGA uses the CAD information as an analysis model, instead of constructing a separate computational model. In order to get accurate results, a k-refinement is performed on the geometrical model. To represent complex geometries trimmed NURBS geometries are employed. In this present work, form finding is done on trimmed membrane surfaces. This project is implemented using MATLAB for the analysis and Rhino to define the geometries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

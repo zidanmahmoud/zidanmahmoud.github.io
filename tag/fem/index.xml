@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FEM | Mahmoud Zidan</title>
+    <link>https://zidanmahmoud.github.io/tag/fem/</link>
+      <atom:link href="https://zidanmahmoud.github.io/tag/fem/index.xml" rel="self" type="application/rss+xml" />
+    <description>FEM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mahmoud Zidan</copyright><lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zidanmahmoud.github.io/media/icon_hucce0edde1ab360b1c50e30e773372010_17872_512x512_fill_lanczos_center_2.png</url>
+      <title>FEM</title>
+      <link>https://zidanmahmoud.github.io/tag/fem/</link>
+    </image>
+    
+    <item>
+      <title>Space-Time Finite Elements For 1D Heat Equation</title>
+      <link>https://zidanmahmoud.github.io/project/spacetime/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/spacetime/</guid>
+      <description>&lt;p&gt;An alternate method to model transient PDEs, where time is considered as a dimension, in contrast to the conventional transient FEM, where the space is discretized and a time intrgration scheme is applied. Thus, the 1D problem becomes 2D, and the shape functions are a tensor product of space and time. This approach is advntegous for its exponential convergence in time (when using high order shape functions), the ability to perform local time refinement, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

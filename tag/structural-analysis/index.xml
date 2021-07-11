@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structural Analysis | Mahmoud Zidan</title>
+    <link>https://zidanmahmoud.github.io/tag/structural-analysis/</link>
+      <atom:link href="https://zidanmahmoud.github.io/tag/structural-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Structural Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mahmoud Zidan</copyright><lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zidanmahmoud.github.io/media/icon_hucce0edde1ab360b1c50e30e773372010_17872_512x512_fill_lanczos_center_2.png</url>
+      <title>Structural Analysis</title>
+      <link>https://zidanmahmoud.github.io/tag/structural-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Flexibility-Based Fiber Beam-Column Element to Model Reinforced Concrete Under Seismic Loading, Master Thesis</title>
+      <link>https://zidanmahmoud.github.io/project/beamcolumn/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/beamcolumn/</guid>
+      <description>&lt;p&gt;Based on the previous work of &lt;a href=&#34;https://www.researchgate.net/publication/242435677_A_Fiber_Beam-Column_Element_for_Seismic_Response_Analysis_of_Reinforced_Concrete_Structures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F.F. Taucer, 1995*&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The simulation of reinforced concrete elements due to a seismic loading brings down the cost of physical experiments, however involves high non-linearities. Many implementation to tackle this problems have been established through the recent years. This thesis work shows the implementation of a flexibility-based fiber beam-column element to model the response of a reinforced concrete element under a cyclic loading in the post-yielding phase. The theory behind the element is discussed as well as the algorithm to carry on the solution. The element has been implemented in a stand-alone Python code and in the open-source framework Kratos, which is an open-source FEM framework developed in the chair of Structural Analysis in the Technical University of Munich, Germany, as well as in International Center for Numerical Methods in Engineering (CIMNE) in Barcelona, Spain&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structural Wind Analysis of The High-Rise Building 1180 Peachtree Using The Eurocode Standard and CFD Simulations</title>
+      <link>https://zidanmahmoud.github.io/project/wind/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/wind/</guid>
+      <description>&lt;p&gt;Wind Analysis of the high-rise building 1180 Peachtree, Atlanta, Georgia, US. Historical wind velocities for the previous 30 years were collected and an analytical aerostatic and aerodynamic analysis using the Eurocode was performed on the building. Then, a CFD simulation was done using KRATOS open-source project developed by the chair and CIMNE, a reseach center in Barcelona, Spain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Isogeometric analyis of trimmed membrane structures</title>
+      <link>https://zidanmahmoud.github.io/project/trimmed/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/trimmed/</guid>
+      <description>&lt;p&gt;The task was to extend a given code for the IGA of untrimmed membranes to the application of trimmed IGA. IGA uses the CAD information as an analysis model, instead of constructing a separate computational model. In order to get accurate results, a k-refinement is performed on the geometrical model. To represent complex geometries trimmed NURBS geometries are employed. In this present work, form finding is done on trimmed membrane surfaces. This project is implemented using MATLAB for the analysis and Rhino to define the geometries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytical Structural Design and a Feasibility Study of a Commercial-Residential Building Following the Standards of Kuwait</title>
+      <link>https://zidanmahmoud.github.io/project/bachelor/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/bachelor/</guid>
+      <description>&lt;p&gt;An analytical structural design of an eco-friendly commercial-residential building in a vacant area in Jabriya, Kuwait. In addition, a feasibility study was established to determine the Pay Back Period of such a project. First, we start with an established soil report of the empty area to choose the structural system, and approximate loads of the building to determine the dimensions of each structural element following the ACI and ASCE standards. Then, a total cost estimation is done using a complete bill of quantity with a task timetable schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

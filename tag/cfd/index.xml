@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFD | Mahmoud Zidan</title>
+    <link>https://zidanmahmoud.github.io/tag/cfd/</link>
+      <atom:link href="https://zidanmahmoud.github.io/tag/cfd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CFD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mahmoud Zidan</copyright><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zidanmahmoud.github.io/media/icon_hucce0edde1ab360b1c50e30e773372010_17872_512x512_fill_lanczos_center_2.png</url>
+      <title>CFD</title>
+      <link>https://zidanmahmoud.github.io/tag/cfd/</link>
+    </image>
+    
+    <item>
+      <title>Immersed Boundary pisoFoam Solver</title>
+      <link>https://zidanmahmoud.github.io/project/openfoam/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/openfoam/</guid>
+      <description>&lt;p&gt;To address the computations of solid particles in a fluid flow, one has to solve the transient
+Navier-Stokes (NS) equations in the fluid domain with the imposition of no-slip boundary con-
+dition at the interface between the fluid domain and the solid object. One way to achieve this
+is by the application of arbitrary Lagrangian-Eulerian method, which combines the advantages
+of both Lagrangian descripton following an individual parcel as it moves through space and
+Eulerian description focusing on specific locations in the space. However, this method requires
+adaptive meshing depending on solid particles displacements as time evolves and therefore leads
+to a substantial computational cost. To avoid repeated re-meshing, the whole computational
+domain containing the fluid and the solid is meshed with a fixed structured cartesian grid. As a
+result, the grid will most probably not conform to the solids boundary. Here, the introduction
+of the solid phase to the governing flow equations is achieved by adequately formulating the
+source term marked in the NS equation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structural Wind Analysis of The High-Rise Building 1180 Peachtree Using The Eurocode Standard and CFD Simulations</title>
+      <link>https://zidanmahmoud.github.io/project/wind/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/wind/</guid>
+      <description>&lt;p&gt;Wind Analysis of the high-rise building 1180 Peachtree, Atlanta, Georgia, US. Historical wind velocities for the previous 30 years were collected and an analytical aerostatic and aerodynamic analysis using the Eurocode was performed on the building. Then, a CFD simulation was done using KRATOS open-source project developed by the chair and CIMNE, a reseach center in Barcelona, Spain.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Mahmoud Zidan</title>
     <link>https://zidanmahmoud.github.io/</link>
       <atom:link href="https://zidanmahmoud.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Mahmoud Zidan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mahmoud Zidan</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zidanmahmoud.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <url>https://zidanmahmoud.github.io/media/icon_hucce0edde1ab360b1c50e30e773372010_17872_512x512_fill_lanczos_center_2.png</url>
+      <title>Mahmoud Zidan</title>
       <link>https://zidanmahmoud.github.io/</link>
     </image>
     
@@ -106,6 +106,45 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flexibility-Based Fiber Beam-Column Element to Model Reinforced Concrete Under Seismic Loading, Master Thesis</title>
+      <link>https://zidanmahmoud.github.io/project/beamcolumn/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/beamcolumn/</guid>
+      <description>&lt;p&gt;Based on the previous work of &lt;a href=&#34;https://www.researchgate.net/publication/242435677_A_Fiber_Beam-Column_Element_for_Seismic_Response_Analysis_of_Reinforced_Concrete_Structures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;F.F. Taucer, 1995*&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The simulation of reinforced concrete elements due to a seismic loading brings down the cost of physical experiments, however involves high non-linearities. Many implementation to tackle this problems have been established through the recent years. This thesis work shows the implementation of a flexibility-based fiber beam-column element to model the response of a reinforced concrete element under a cyclic loading in the post-yielding phase. The theory behind the element is discussed as well as the algorithm to carry on the solution. The element has been implemented in a stand-alone Python code and in the open-source framework Kratos, which is an open-source FEM framework developed in the chair of Structural Analysis in the Technical University of Munich, Germany, as well as in International Center for Numerical Methods in Engineering (CIMNE) in Barcelona, Spain&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immersed Boundary pisoFoam Solver</title>
+      <link>https://zidanmahmoud.github.io/project/openfoam/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/openfoam/</guid>
+      <description>&lt;p&gt;To address the computations of solid particles in a fluid flow, one has to solve the transient
+Navier-Stokes (NS) equations in the fluid domain with the imposition of no-slip boundary con-
+dition at the interface between the fluid domain and the solid object. One way to achieve this
+is by the application of arbitrary Lagrangian-Eulerian method, which combines the advantages
+of both Lagrangian descripton following an individual parcel as it moves through space and
+Eulerian description focusing on specific locations in the space. However, this method requires
+adaptive meshing depending on solid particles displacements as time evolves and therefore leads
+to a substantial computational cost. To avoid repeated re-meshing, the whole computational
+domain containing the fluid and the solid is meshed with a fixed structured cartesian grid. As a
+result, the grid will most probably not conform to the solids boundary. Here, the introduction
+of the solid phase to the governing flow equations is achieved by adequately formulating the
+source term marked in the NS equation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structural Wind Analysis of The High-Rise Building 1180 Peachtree Using The Eurocode Standard and CFD Simulations</title>
+      <link>https://zidanmahmoud.github.io/project/wind/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/wind/</guid>
+      <description>&lt;p&gt;Wind Analysis of the high-rise building 1180 Peachtree, Atlanta, Georgia, US. Historical wind velocities for the previous 30 years were collected and an analytical aerostatic and aerodynamic analysis using the Eurocode was performed on the building. Then, a CFD simulation was done using KRATOS open-source project developed by the chair and CIMNE, a reseach center in Barcelona, Spain.&lt;/p&gt;
 </description>
     </item>
     
@@ -239,15 +278,29 @@ Three
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://zidanmahmoud.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://zidanmahmoud.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Space-Time Finite Elements For 1D Heat Equation</title>
+      <link>https://zidanmahmoud.github.io/project/spacetime/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/spacetime/</guid>
+      <description>&lt;p&gt;An alternate method to model transient PDEs, where time is considered as a dimension, in contrast to the conventional transient FEM, where the space is discretized and a time intrgration scheme is applied. Thus, the 1D problem becomes 2D, and the shape functions are a tensor product of space and time. This approach is advntegous for its exponential convergence in time (when using high order shape functions), the ability to perform local time refinement, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Isogeometric analyis of trimmed membrane structures</title>
+      <link>https://zidanmahmoud.github.io/project/trimmed/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/trimmed/</guid>
+      <description>&lt;p&gt;The task was to extend a given code for the IGA of untrimmed membranes to the application of trimmed IGA. IGA uses the CAD information as an analysis model, instead of constructing a separate computational model. In order to get accurate results, a k-refinement is performed on the geometrical model. To represent complex geometries trimmed NURBS geometries are employed. In this present work, form finding is done on trimmed membrane surfaces. This project is implemented using MATLAB for the analysis and Rhino to define the geometries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytical Structural Design and a Feasibility Study of a Commercial-Residential Building Following the Standards of Kuwait</title>
+      <link>https://zidanmahmoud.github.io/project/bachelor/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/bachelor/</guid>
+      <description>&lt;p&gt;An analytical structural design of an eco-friendly commercial-residential building in a vacant area in Jabriya, Kuwait. In addition, a feasibility study was established to determine the Pay Back Period of such a project. First, we start with an established soil report of the empty area to choose the structural system, and approximate loads of the building to determine the dimensions of each structural element following the ACI and ASCE standards. Then, a total cost estimation is done using a complete bill of quantity with a task timetable schedule.&lt;/p&gt;
 </description>
     </item>
     
@@ -268,14 +321,6 @@ Three
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zidanmahmoud.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zidanmahmoud.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>

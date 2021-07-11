@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structural Design | Mahmoud Zidan</title>
+    <link>https://zidanmahmoud.github.io/tag/structural-design/</link>
+      <atom:link href="https://zidanmahmoud.github.io/tag/structural-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Structural Design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mahmoud Zidan</copyright><lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zidanmahmoud.github.io/media/icon_hucce0edde1ab360b1c50e30e773372010_17872_512x512_fill_lanczos_center_2.png</url>
+      <title>Structural Design</title>
+      <link>https://zidanmahmoud.github.io/tag/structural-design/</link>
+    </image>
+    
+    <item>
+      <title>Analytical Structural Design and a Feasibility Study of a Commercial-Residential Building Following the Standards of Kuwait</title>
+      <link>https://zidanmahmoud.github.io/project/bachelor/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://zidanmahmoud.github.io/project/bachelor/</guid>
+      <description>&lt;p&gt;An analytical structural design of an eco-friendly commercial-residential building in a vacant area in Jabriya, Kuwait. In addition, a feasibility study was established to determine the Pay Back Period of such a project. First, we start with an established soil report of the empty area to choose the structural system, and approximate loads of the building to determine the dimensions of each structural element following the ACI and ASCE standards. Then, a total cost estimation is done using a complete bill of quantity with a task timetable schedule.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

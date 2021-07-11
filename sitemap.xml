@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zidanmahmoud.github.io/</loc>
+    <loc>https://zidanmahmoud.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zidanmahmoud.github.io/talk/example-talk/</loc>
+    <loc>https://zidanmahmoud.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zidanmahmoud.github.io/event/</loc>
@@ -35,20 +35,53 @@
     <loc>https://zidanmahmoud.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://zidanmahmoud.github.io/project/beamcolumn/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/project/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/tag/structural-analysis/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/tag/cfd/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/project/openfoam/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/project/wind/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zidanmahmoud.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zidanmahmoud.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zidanmahmoud.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://zidanmahmoud.github.io/tag/fem/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zidanmahmoud.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://zidanmahmoud.github.io/project/spacetime/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zidanmahmoud.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://zidanmahmoud.github.io/tag/transient-fem/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/tag/formfinding/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/tag/iga/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/project/trimmed/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/project/bachelor/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zidanmahmoud.github.io/tag/structural-design/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zidanmahmoud.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
@@ -61,7 +94,5 @@
   </url><url>
     <loc>https://zidanmahmoud.github.io/publication/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zidanmahmoud.github.io/admin/</loc>
   </url>
 </urlset>
